@@ -17,7 +17,7 @@ for (num = 0; num <= 9; num++)
 
 		prod = num * mult;
 
-		if (prof <= 9)
+		if (prod <= 9)
 			_putchar(' ');
 		else
 			_putchar((prod / 10) + '0');
