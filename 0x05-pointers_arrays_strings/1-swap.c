@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Swap_int - swap the values of two integers a and b
+ * swap_int - swap the values of two integers a and b
  * @a: A pointer to an int that will be updated
  * @b: B pointer to an int that will be updated
  * Return: void that means our answer is correct
