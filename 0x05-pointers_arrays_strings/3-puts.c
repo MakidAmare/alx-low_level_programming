@@ -3,7 +3,7 @@
  * _puts - prints a string
  * @str: A pointer to an int that will be changed
  *
- * Return: void which means our answer iss correct
+ * Return: void which means our answer is correct
  */
 
 void _puts(char *str)
@@ -15,7 +15,7 @@ void _puts(char *str)
 
 	for (m = 0; c[m]; m++)
 	{
-		_putschar (c[m]);
+		_putchar (c[m]);
 	}
-	_putschar('\n');
+	_putchar('\n');
 }
